@@ -140,6 +140,6 @@
 ---
 
 ## 今日 git commit 记录
-（这部分 commit 后自己填）
+（发现数据自相关对统计结果会有明显的影响，在周期的不同阶段，自相关表现出不同的影响逻辑，后面自己数据分析时要注意避免）
 - commit hash: xxxxxxx
 - commit message: Day 3: market data, risk metrics, IID hypothesis test
